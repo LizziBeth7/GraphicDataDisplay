@@ -1,0 +1,21 @@
+﻿ID,Name,X,Y,Year of Birth,Gender,Level,Group
+1,Victor Anderson,152,658,2000,Female,0,2
+2,Jack Scott,244,654,2002,Male,0,1
+3,Sean Robinson,354,755,2002,Male,0,1
+4,William Rodriguez,281,955,2004,Female,0,1
+5,Aaron Kelly,27,819,2005,Female,0,0
+6,Raymond Taylor,244,736,2000,Female,0,1
+7,Alan Foster,36,636,2002,Male,0,2
+8,Charles Watson,319,833,2003,Female,0,0
+9,Vinh Nguyen,965,26,2000,Male,0,2
+10,Lillian Perez,255,813,2005,Male,0,4
+11,Betty Moore,543,875,2003,Female,0,1
+12,Bruce Adams,497,800,2001,Male,0,0
+13,Kathryn Sanchez,186,926,2001,Male,0,0
+14,Chris Hall,375,947,2000,Male,0,3
+15,Eugene Harris,140,748,2000,Female,0,3
+16,Gary Baker,465,912,2001,Female,0,0
+17,Michael Ramirez,105,859,2000,Male,0,2
+18,Walter Smith,61,697,2005,Male,0,0
+19,Ann Murphy,970,880,2003,Male,0,1
+20,Lois Thompson,20,4,2003,Female,0,1
